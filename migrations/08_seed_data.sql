@@ -3,10 +3,10 @@
 
 \c pizzas_factory
 
-\COPY addresses FROM 'ruta/al/archivo/data/addresses.csv' CSV HEADER
-\COPY customers FROM 'ruta/al/archivo/data/customers.csv' CSV HEADER
-\COPY prices FROM 'ruta/al/archivo/data/prices.csv' CSV HEADER
-\COPY pizzas FROM 'ruta/al/archivo/data/pizzas.csv' CSV HEADER
-\COPY sizes FROM 'ruta/al/archivo/data/sizes.csv' CSV HEADER
-\COPY details FROM 'ruta/al/archivo/data/orders_details.csv' CSV HEADER
-\COPY orders FROM 'ruta/al/archivo/data/orders.csv' CSV HEADER
+\COPY customers FROM 'C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/data/customers.csv' csv HEADER;
+\COPY addresses FROM 'C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/data/addresses.csv' csv HEADER;
+\COPY pizzas FROM 'C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/data/pizzas.csv' csv HEADER;
+\COPY sizes FROM 'C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/data/sizes.csv' csv HEADER;
+\COPY prices FROM 'C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/data/prices.csv' csv HEADER;
+\COPY orders FROM 'C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/data/orders.csv' csv HEADER;
+\COPY details FROM 'C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/data/orders_details.csv' csv HEADER;

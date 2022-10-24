@@ -1,0 +1,9 @@
+C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/migrations/00_create_datbase.sql
+C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/migrations/01_create_customers.sql
+C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/migrations/02_create_addresses.sql
+C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/migrations/03_create_pizzas.sql
+C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/migrations/04_create_sizes.sql
+C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/migrations/05_create_prices.sql
+C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/migrations/06_create_orders.sql
+C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/migrations/07_create_order_details.sql
+C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/migrations/08_seed_data.sql
