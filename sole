@@ -7,3 +7,15 @@ C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/migrations/05_create_prices.s
 C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/migrations/06_create_orders.sql
 C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/migrations/07_create_order_details.sql
 C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/migrations/08_seed_data.sql
+
+C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/data/addresses.csv
+C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/data/customers.csv
+C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/data/prices.csv
+C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/data/pizzas.csv
+C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/data/sizes.csv
+C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/data/orders_details.csv
+C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/data/orders.csv
+
+C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/queryes/01_more_expensive_pizza.sql
+C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/queryes/02_max_quantity.sql
+C:/Users/Usuaria/intro_dev/sql-test-miasol19651965/queryes/01_more_expensive_pizza.sql
